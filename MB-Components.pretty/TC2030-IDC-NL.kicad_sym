@@ -1,0 +1,76 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "TC2030-IDC-NL" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "J" (id 0) (at -5.08623 12.7156 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "TC2030-IDC-NL" (id 1) (at -5.0802 -10.1604 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "TAG_TC2030-IDC-NL" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PARTREV" "MS" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "Tag-Connect" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "Manufacturer recommendation" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "TC2030-IDC-NL_0_0"
+      (rectangle (start -5.08 -7.62) (end 5.08 10.16)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin passive line (at -7.62 7.62 0) (length 2.54)
+        (name "1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -7.62 5.08 0) (length 2.54)
+        (name "2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -7.62 2.54 0) (length 2.54)
+        (name "3"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -7.62 0.0 0) (length 2.54)
+        (name "4"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -7.62 -2.54 0) (length 2.54)
+        (name "5"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -7.62 -5.08 0) (length 2.54)
+        (name "6"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

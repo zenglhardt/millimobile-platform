@@ -10592,7 +10592,6 @@
 				(justify left)
 			)
 		)
-		(property "Value" "7.5m"
 			(at 43.18 236.22 0)
 			(effects
 				(font
@@ -11534,7 +11533,6 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100u"
 			(at 31.1912 222.123 0)
 			(effects
 				(font
@@ -11543,7 +11541,6 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MB-Components:CAPC2012X140N"
 			(at 26.67 220.98 0)
 			(effects
 				(font
@@ -12060,4 +12057,3 @@
 			(page "1")
 		)
 	)
-)

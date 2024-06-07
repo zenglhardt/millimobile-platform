@@ -1,0 +1,41 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model DF40C_2.0_-20DS-0.4V_51_
+#/276942/1052907/2.50/20/3/Connector
+DEF DF40C_2.0_-20DS-0.4V_51_ J 0 30 Y Y 1 F N
+F0 "J" 750 300 50 H V L CNN
+F1 "DF40C_2.0_-20DS-0.4V_51_" 750 200 50 H V L CNN
+F2 "DF40C2020DS04V51" 750 100 50 H I L CNN
+F3 "https://www.hirose.com/product/document?clcode=CL0684-4003-3-51&productname=DF40C-60DP-0.4V(51)&series=DF40&documenttype=Catalog&lang=en&documentid=D31649_en" 750 0 50 H I L CNN
+F4 "Board to Board & Mezzanine Connectors 20P 2-ROW RECEPT VERT SMT 2.0MM HGHT" 750 -100 50 H I L CNN "Description"
+F5 "2.1" 750 -200 50 H I L CNN "Height"
+F6 "798-DF40C2020DS04V51" 750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/DF40C2.0-20DS-0.4V51?qs=3aug5cyrIbdA5dYbMRd5pw%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Hirose" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "DF40C(2.0)-20DS-0.4V(51)" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 900 0 200 L 50 50 0 0 P
+X 3 3 0 -100 200 R 50 50 0 0 P
+X 4 4 900 -100 200 L 50 50 0 0 P
+X 5 5 0 -200 200 R 50 50 0 0 P
+X 6 6 900 -200 200 L 50 50 0 0 P
+X 7 7 0 -300 200 R 50 50 0 0 P
+X 8 8 900 -300 200 L 50 50 0 0 P
+X 9 9 0 -400 200 R 50 50 0 0 P
+X 10 10 900 -400 200 L 50 50 0 0 P
+X 11 11 0 -500 200 R 50 50 0 0 P
+X 12 12 900 -500 200 L 50 50 0 0 P
+X 13 13 0 -600 200 R 50 50 0 0 P
+X 14 14 900 -600 200 L 50 50 0 0 P
+X 15 15 0 -700 200 R 50 50 0 0 P
+X 16 16 900 -700 200 L 50 50 0 0 P
+X 17 17 0 -800 200 R 50 50 0 0 P
+X 18 18 900 -800 200 L 50 50 0 0 P
+X 19 19 0 -900 200 R 50 50 0 0 P
+X 20 20 900 -900 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -1000 200 -1000 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
